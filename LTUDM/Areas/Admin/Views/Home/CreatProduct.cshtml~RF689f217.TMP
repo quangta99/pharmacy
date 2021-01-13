@@ -1,0 +1,53 @@
+﻿@{
+    ViewBag.Title = "CreatProduct";
+    Layout = "~/Areas/Admin/Views/Shared/_Layou1.cshtml";
+    @model LTUDM.Models.ProductModel
+}
+<div id="content" class="span10">
+
+    <h1>Insert Product</h1>
+
+    <h2 class="text-warning">@ViewBag.CreateProError</h2>
+
+    @using (Html.BeginForm("CreatProduct", "Home", FormMethod.Post))
+    {
+
+    <form asp-controller="Home" asp-action="CreatProduct"
+          method="post">
+        <div class="form-group">
+            <label for="text">ID: </label>
+            <div>@Html.TextBoxFor(m => m.ProductID)</div>
+        </div>
+        <div class="form-group">
+            <label for="text">Tên Sản Phẩm: </label>
+            <div>@Html.TextBoxFor(m => m.ProductName)</div>
+        </div>
+        <div class="form-group">
+            <label for="text">Đơn giá: </label>
+            <div>@Html.TextBoxFor(m => m.Price)</div>
+        </div>
+        <div class="form-group">
+            <label for="text">Nhập chiết khấu: </label>
+            <div>@Html.TextBoxFor(m => m.discount)</div>
+        </div>
+        <div class="form-group">
+            <label for="text">Số lượng sản phẩm: </label>
+            <div>@Html.TextBoxFor(m => m.Quantity)</div>
+        </div>
+        <div class="form-group">
+            <label for="text">Image: </label>
+            <input type="file" id="file" name="file" />
+            <div class="text-danger">@ViewBag.HinhAnh</div>
+        </div>
+        <div class="form-group">
+            <label for="text">Mô tả sản phẩm: </label>
+            <div>@Html.TextAreaFor(m => m.Description)</div>
+        </div>
+        <input type="submit" value="Tạo mới" class="btn btn-default" />
+    </form>
+    }
+
+
+</div>
+
+

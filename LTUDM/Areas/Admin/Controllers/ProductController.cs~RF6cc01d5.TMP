@@ -1,0 +1,121 @@
+﻿using LTUDM.Areas.Admin.Models;
+using LTUDM.Models;
+using MongoDB.Bson;
+using MongoDB.Driver;
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+
+namespace LTUDM.Areas.Admin.Controllers
+{
+    public class ProductController : Controller
+    {
+        private IMongoCollection<ProductModel> GetProducts;
+        private IMongoCollection<CategoryModel> GetCategory;
+
+        public ProductController()
+        {
+            var client = new MongoClient("mongodb://localhost:27017");
+            IMongoDatabase db = client.GetDatabase("Phamarcy");
+            this.GetProducts = db.GetCollection<ProductModel>("Products");
+            this.GetCategory = db.GetCollection<CategoryModel>("Category");
+          
+        }
+        // GET: Admin/Product
+
+        public ActionResult Product()
+        {
+            if (Session["admin"] != null)
+            {
+                var model = GetProducts.Find
+            (FilterDefinition<ProductModel>.Empty).ToList();
+                return View(model);
+            }
+            else
+            {
+                return RedirectToAction("Index", "Home");
+            }
+        }
+        public ActionResult SingleProduct(int ID)
+        {
+            if (Session["admin"] != null)
+            {
+
+                ProductModel model = GetProducts.Find(n => n.ProductID == ID).FirstOrDefault();
+                return View(model);
+            }
+            else
+            {
+                return RedirectToAction("Index", "Home");
+            }
+        }
+
+
+        public ActionResult CreatProduct()
+        {
+            if (Session["admin"] != null)
+            {
+                return View();
+            }
+            else
+            {
+                return RedirectToAction("Index", "Home");
+            }
+        }
+
+
+        [HttpPost]
+        public ActionResult CreatProduct(ProductModel createPro)
+        {
+
+            if (Session["admin"] != null)
+            {
+                if (createPro.Quantity > 0) { createPro.status = "Còn hàng"; }
+                else { createPro.status = "Hết hàng"; }
+                var cat = GetCategory.Find(m => m.CategoryID == createPro.Type.CategoryID).FirstOrDefault();
+                if (cat != null)
+                {
+                    createPro.Type.CategoryName = cat.CategoryName;
+
+                    var pro = GetProducts.Find(n => n.ProductID == createPro.ProductID).FirstOrDefault();
+
+                    if (pro != null)
+                    {
+                        ViewBag.CreateProError = "Mã sản phẩm đã tồn tại.";
+                    }
+                    else
+                    {
+                        GetProducts.InsertOne(createPro);
+                        ViewBag.CreateProError = "Thêm sản phẩm thành công.";
+                    }
+                }
+                else
+                {
+                    ViewBag.CreateProError = "Mã loại sản phẩm không đúng.";
+                }
+
+
+                return View("CreatProduct");
+
+            }
+            else
+            {
+                return RedirectToAction("Index", "Home");
+            }
+
+        }
+
+
+        public ActionResult Delete(string id)
+        {
+            ObjectId ID = new ObjectId(id);
+            var deleteFilter = Builders<ProductModel>.Filter.Eq("_id", ID);
+            GetProducts.DeleteOne(deleteFilter);
+            ViewBag.Message = "Xóa thành công";
+            return View("Product");
+        }
+    }
+}

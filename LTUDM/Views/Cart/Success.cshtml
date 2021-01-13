@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Thành công";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="page-header-cart" style="background-image:url(https://media.istockphoto.com/vectors/modern-interior-pharmacy-with-male-pharmacist-vector-id610541230);">
+    <div class="container">
+        <div class="p-4" style="background-color:white">
+            <div class="row align-items-center justify-content-center" style="display: flex;">
+                <img alt="icon success" style="max-height:300px;" class="img-fluid" src="https://png.pngtree.com/svg/20170510/418329c59c.png" />
+                <h3 class="h2">Thanh toán thành công, đơn hàng của bạn đang được giao</h3>
+            </div>
+            <div class="justify-content-center align-items-center" style="display:flex">
+                <a href="@Url.Action("Index","Home")" class="btn btn-primary p-2 m-2">Tiếp tục mua hàng</a>
+            </div>
+        </div>
+    </div>
+</div>
+

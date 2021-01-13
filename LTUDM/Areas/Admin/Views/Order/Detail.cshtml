@@ -1,0 +1,132 @@
+﻿
+@{
+    ViewBag.Title = "SingleOrder";
+    Layout = "~/Areas/Admin/Views/Shared/_Layou1.cshtml";
+    @model List<LTUDM.Models.OrderDetailModel>
+    int stt = 1;
+}
+
+
+<div id="content" class="span10">
+    <div class="row-fluid">
+        <div class="box-header">
+            <h2><i class="halflings-icon white plus"></i><span class="break"></span>Chi tiết đơn hàng</h2>
+            <div class="box-icon">
+                <a href="#" class="btn-minimize"><i class="halflings-icon white chevron-up"></i></a>
+            </div>
+        </div>
+        <div class="box-content">
+            <table class="table table-bordered table-striped">
+                <tr>
+
+
+
+
+                    <td><strong>Mã đơn hàng</strong></td>
+                    <td>
+                        <p>@ViewBag.Order.OrderID</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Ngày đặt hàng</strong></td>
+                    <td>
+                        <p>@ViewBag.Order.OrderDate</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Tên người mua</strong></td>
+                    <td>
+                        <p>@ViewBag.Order.Name</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Số điện thoại người nhận</strong></td>
+                    <td>
+                        <p>@ViewBag.Order.Phone</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Địa chỉ giao hàng</strong></td>
+                    <td>
+                        <p>@ViewBag.Order.Address</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Email</strong></td>
+                    <td>
+                        <p>@ViewBag.Order.Email</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Ghi chú</strong></td>
+                    <td>
+                        <p>@ViewBag.Order.Notes</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Tình trạng đơn hàng</strong></td>
+                    @if (ViewBag.Order.OrderStatus == "Đang Kiểm tra")
+                    {
+                        <td>
+                            <a class="btn btn-primary" href="@Url.Action("Update", "Order", new { ID =ViewBag.Order.OrderID})">@ViewBag.Order.OrderStatus</a>
+                        </td>
+                    }
+                    else if (ViewBag.Order.OrderStatus == "Đang vận chuyển")
+                    {
+                        <td>
+                            <a class="btn btn-warning" href="@Url.Action("Update", "Order", new { ID =ViewBag.Order.OrderID})">@ViewBag.Order.OrderStatus</a>
+                        </td>
+                    }
+                    else
+                    {
+                        <td>
+                            <a class="btn btn-success"  disable>@ViewBag.Order.OrderStatus</a>
+                        </td>
+                    }
+
+                </tr>
+                <tr>
+                    <td><strong>Tổng tiền</strong></td>
+                    <td>
+                        <p class="text-warning"><strong>@string.Format("{0:0,0 VNĐ}", ViewBag.Order.TotalPrice)</strong></p>
+                    </td>
+                </tr>
+
+            </table>
+
+
+            <p class="text-success"><strong>Danh sách sản phẩm của đơn hàng</strong></p>
+            <div>
+                <table class="table  table-bordered ">
+                    <thead>
+                        <tr>
+                            <th>STT</th>
+                            <th>Mã Sản Phẩm</th>
+                            <th>Số Lượng</th>
+                            <th>Giá</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (var i in Model)
+                        {
+                            
+                        <tr>
+                            <td>@stt</td>
+                            <td>@i.ProductID</td>
+                            <td>@i.Quantity</td>
+                            <td>@i.SalePrice</td>
+                        </tr>
+                                { stt++; }
+                           
+                        }
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+
+        
+        </div>
+    </div>
+</div><!--/span-->

@@ -1,0 +1,215 @@
+﻿
+@{
+    ViewBag.Title = "Thanh toán";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    @model LTUDM.Models.OrderModel
+}
+@using LTUDM.Models
+@{
+    UserModel User = (UserModel)Session["user"];
+}
+<div class="page-header-cart" style="background-image:url(https://media.istockphoto.com/vectors/modern-interior-pharmacy-with-male-pharmacist-vector-id610541230);">
+    <div class="container" style="margin-top:30px">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="cart-form text-light p-3">
+                    <h2>@ViewBag.Mess</h2>
+                    @if (Session["user"] == null)
+                    {
+                        using (Html.BeginForm("AddOrder", "Cart"))
+                        {
+                            <form asp-controller="Home" asp-action="CreatProduct"
+                                  method="post">
+                                <div class="form-group row pl-2">
+                                    <div class="col-md-8">
+                                        <label for="c_fname" class="text-black">Họ và tên: <span class="text-danger">*</span></label>
+                                        <div>@Html.TextBoxFor(m => m.Name, new { @style = "width:100%" })</div>
+                                    </div>
+                                </div>
+
+
+                                <div class="form-group row pl-2">
+                                    <div class="col-md-8">
+                                        <label for="c_address" class="text-black">Địa chỉ: <span class="text-danger">*</span></label>
+                                        <div>@Html.TextBoxFor(m => m.Address, new { @style = "width:100%" })</div>
+                                    </div>
+                                </div>
+
+                                <div class="form-group row pl-2">
+                                    <div class="col-md-8">
+                                        <label for="c_email_address" class="text-black">Email Address <span class="text-danger">*</span></label>
+                                        <div>@Html.TextBoxFor(m => m.Email, new { @style = "width:100%" })</div>
+                                    </div>
+                                </div>
+                                <div class="form-group row pl-2">
+                                    <div class="col-md-8">
+                                        <label for="c_phone" class="text-black">Phone <span class="text-danger">*</span></label>
+                                        <div>@Html.TextBoxFor(m => m.Phone, new { @style = "width:100%" })</div>
+                                    </div>
+                                </div>
+                                <div class="form-group row pl-2">
+                                    <div class="col-md-8">
+                                        <label for="c_order_notes" class="text-black">Order Notes</label>
+                                        <div>@Html.TextAreaFor(m => m.Notes, new { @style = "width:100%" })</div>
+                                    </div>
+                                </div>
+                                @{ int check = 1;
+                                    int checkNum = 1;}
+                                @foreach (CartModel item in (List<CartModel>)Session["cart"])
+                                {
+                                    foreach (var itemDatabase in ViewBag.prDatabase)
+                                    {
+                                        if (item.ProductID == itemDatabase.ProductID)
+                                        {
+                                            if (itemDatabase.status == false)
+                                            {
+                                                check += 0;
+                                            }
+                                            else
+                                            {
+                                                check += 1;
+                                                if (itemDatabase.Quantity == 0)
+                                                {
+                                                    checkNum += 0;
+                                                }
+                                                else
+                                                {
+                                                    checkNum += 1;
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                                @if (check == 1)
+                                {
+                                    <a class="btn btn-dark ml-2">Toàn bộ sản phẩm trong giỏ hàng đã ngừng kinh doanh</a>
+                                }
+                                else if (checkNum == 1)
+                                {
+                                    <a class="btn btn-dark ml-2">Toàn bộ sản phẩm trong giỏ hàng đã hết hàng</a>
+                                }
+                                else if (check >= 1 && checkNum == 1)
+                                {
+                                    <a class="btn btn-dark ml-2">Toàn bộ sản phẩm trong giỏ hàng đã hết hàng, ngừng kinh doanh</a>
+                                }
+                                else
+                                {
+                                    <input class="btn btn-primary ml-2" value="Mua hàng" type="submit" id="btnDangNhap1">
+                                }
+                            </form>}
+                    }
+                    else
+                    {
+                        using (Html.BeginForm("AddOrder", "Cart"))
+                        {
+                            <div>
+                                <h2>Thông Tin Mua Hàng:</h2>
+                                <div class="mb-3" style="max-width: 700px;">
+                                    <div class="row no-gutters">
+                                        <div class="col-md-9">
+                                            <div class="card-body">
+                                                <table class="table table-borderless">
+                                                    <tbody style="color:white">
+                                                        <tr>
+                                                            <td><p style="font-weight:bold">Họ và tên:</p></td>
+                                                            <td>
+                                                                <p>@User.Name</p>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td><p style="font-weight:bold">Email:</p></td>
+                                                            <td><p>@User.Email</p></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td><p style="font-weight:bold">SĐT:</p></td>
+                                                            <td>@Html.TextBoxFor(m => m.Phone, new { @style = "width:80%" })</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td><p style="font-weight:bold">Địa chỉ:</p></td>
+                                                            <td><p>@Html.TextBoxFor(m => m.Address, new { @style = "width:80%" })</p></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td><p style="font-weight:bold">Ghi chú:</p></td>
+                                                            <td>@Html.TextAreaFor(m => m.Notes, new { @style = "width:80%" })</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="pl-2">
+                                    @{ int check = 1;
+                                        int checkNum = 1;}
+                                    @foreach (var item in ViewBag.prCart)
+                                    {
+                                        foreach (var itemDatabase in ViewBag.prDatabase)
+                                        {
+                                            if (item.ProductID == itemDatabase.ProductID)
+                                            {
+                                                if (itemDatabase.status == false)
+                                                {
+                                                    check += 0;
+                                                }
+                                                else
+                                                {
+                                                    check += 1;
+                                                    if (itemDatabase.Quantity == 0)
+                                                    {
+                                                        checkNum += 0;
+                                                    }
+                                                    else
+                                                    {
+                                                        checkNum += 1;
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                    @if (check == 1)
+                                    {
+                                        <a class="btn btn-dark ml-2">Toàn bộ sản phẩm trong giỏ hàng đã ngừng kinh doanh</a>
+                                    }
+                                    else if (checkNum == 1)
+                                    {
+                                        <a class="btn btn-dark ml-2">Toàn bộ sản phẩm trong giỏ hàng đã hết hàng</a>
+                                    }
+                                    else if (check >= 1 && checkNum == 1)
+                                    {
+                                        <a class="btn btn-dark ml-2">Toàn bộ sản phẩm trong giỏ hàng đã ngừng kinh doanh, hết hàng</a>
+
+                                    }
+                                    else
+                                    {
+                                        <input class="btn btn-primary ml-2" value="Mua hàng" type="submit" id="btnDangNhap1">
+                                    }
+                                </div>
+                            </div>
+                        }
+                    }
+                </div>
+            </div>
+            <div class="col-lg-3 mt-1  mr-2 mb-1">
+                <div class="cart-form text-center">
+                    <h3 class="text-white p-4">Hoá đơn</h3>
+                    <br />
+                    <div class="align-items-center" style="display:flex">
+                        <table class="table-bill table table-sm text-white text-center">
+                            <tr>
+                                <th>Số lượng</th>
+                                <td>@ViewBag.tongsoluong</td>
+                            </tr>
+                            <tr>
+                                <th>Tổng tiền</th>
+                                <td>@string.Format("{0:0,0 VNĐ}", ViewBag.Total)</td>
+                            </tr>
+                        </table>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

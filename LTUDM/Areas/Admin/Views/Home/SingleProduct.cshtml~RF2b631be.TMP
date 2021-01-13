@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "SingleProduct";
+    @model LTUDM.Models.ProductModel
+}
+<div class="container" style="max-width:500px">
+    <div class="d-flex justify-content-center">
+            <div class="border text-center">
+                <img src="@Model.img" alt="Image" class="img-fluid p-5" height="100px" width="400px">
+            </div>
+            <h1>@Model.ProductID</h1>
+            <h2 class="text-black">@Model.ProductName</h2>
+            <div>@Model.Description</div>
+            <p><strong class="text-primary h4">@Model.Price VND</strong></p>
+            <div class="mt-5">
+            </div>
+    </div>
+</div>
+

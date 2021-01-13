@@ -1,0 +1,173 @@
+﻿using LTUDM.Areas.Admin.Models;
+using LTUDM.Models;
+using MongoDB.Driver;
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+
+namespace LTUDM.Areas.Admin.Controllers
+{
+    public class HomeController : Controller
+    {
+
+        private IMongoCollection<ProductModel> GetProducts;
+        private IMongoCollection<CategoryModel> GetCategory;
+        private IMongoCollection<AdminModel> GetAdminName;
+        private IMongoCollection<UserModel> GetUserName;
+
+        public HomeController()
+        {
+            var client = new MongoClient("mongodb://localhost:27017");
+            IMongoDatabase db = client.GetDatabase("Phamarcy");
+            this.GetProducts = db.GetCollection<ProductModel>("Products");
+            this.GetCategory = db.GetCollection<CategoryModel>("Category");
+            this.GetAdminName = db.GetCollection<AdminModel>("Admin");
+            this.GetUserName = db.GetCollection<UserModel>("User");
+        }
+        // GET: Admin/Home
+        public ActionResult Index()
+        {
+            ViewBag.Message = "";
+            return View();
+        }
+        //homepage admin
+        public ActionResult AdminPage()
+        {
+            if (Session["admin"] != null)
+            { return View(); }
+            else
+            {
+                return RedirectToAction("Index");
+            } 
+        }
+
+        /// <summary>
+        /// Product page
+        /// </summary>
+        /// <returns></returns>
+        public ActionResult Product()
+        {
+            if (Session["admin"] != null)
+            {
+                var model = GetProducts.Find
+            (FilterDefinition<ProductModel>.Empty).ToList();
+                return View(model);
+            }
+            else
+            {
+                return RedirectToAction("Index");
+            }
+        }
+
+     
+        public ActionResult CreatProduct()
+        {
+            if (Session["admin"] != null)
+            {
+                return View();
+            }
+            else
+            {
+                return RedirectToAction("Index");
+            }
+        }
+
+
+        [HttpPost]
+        public ActionResult CreatProduct(ProductModel createPro)
+        {
+           
+                            GetProducts.InsertOne(createPro);
+                            ViewBag.CreateProError = "Thêm sản phẩm thành công.";
+                
+                return View();
+            }
+        }
+
+
+
+
+        /// <summary>
+        /// Categories page
+        /// </summary>
+        /// <returns></returns>
+        public ActionResult Categories()
+        {
+            if (Session["admin"] != null)
+            {
+                var model = GetCategory.Find
+            (FilterDefinition<CategoryModel>.Empty).ToList();
+                return View(model);
+            }
+            else
+            {
+                return RedirectToAction("Index");
+            }
+        }
+
+
+        /// <summary>
+        /// User Page
+        /// </summary>
+        /// <returns></returns>
+        public ActionResult UserPage()
+        {
+            if (Session["admin"] != null)
+            {
+                var model = GetUserName.Find
+            (FilterDefinition<UserModel>.Empty).ToList();
+                return View(model);
+            }
+            else
+            {
+                return RedirectToAction("Index");
+            }
+        }
+
+        public ActionResult SingleProduct(int ID)
+        {
+            if (Session["admin"] != null)
+            {
+                
+                ProductModel model = GetProducts.Find(n => n.ProductID == ID ).FirstOrDefault();
+                return View(model);
+            }
+            else
+            {
+                return RedirectToAction("Index");
+            }
+        }
+
+
+
+
+        public ActionResult LoginAdmin(FormCollection collection)
+        {
+            string TaiKhoan = collection["txtUser"].ToString();
+            string MatKhau = collection["txtPass"].ToString();
+            AdminModel result = GetAdminName.Find(n => n.AdminName == TaiKhoan && n.Password == MatKhau).FirstOrDefault();
+            if (result != null)
+            {
+                Session["admin"] = result;
+                return RedirectToAction("AdminPage");
+
+            }
+            return View("Index");
+        }
+
+        public ActionResult LogOutAdmin()
+        {
+            if (Session["admin"] != null)
+            {
+                Session["admin"] = null;
+                return RedirectToAction("Index");
+            }
+            return RedirectToAction("Index");
+
+        }
+
+    }
+}

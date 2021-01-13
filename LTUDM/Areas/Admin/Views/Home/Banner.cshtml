@@ -1,0 +1,146 @@
+﻿@{
+    ViewBag.Title = "UpdateBanner";
+    Layout = "~/Areas/Admin/Views/Shared/_Layou1.cshtml";
+    @model LTUDM.Models.BannerModels
+}
+
+
+
+<div id="content" class="span10">
+    @using (Html.BeginForm("Banner1", "Home", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+    {
+        <div class="row-fluid sortable">
+            <div class="box span12">
+                <div class="box-header" data-original-title>
+                    <h2><i class="halflings-icon white edit"></i><span class="break"></span>Update Banner 1</h2>
+                    <div class="box-icon">
+
+                        <a href="#" class="btn-minimize"><i class="halflings-icon white chevron-up"></i></a>
+
+                    </div>
+                </div>
+                <div class="box-content">
+                    <form class="form-horizontal">
+                        <fieldset>
+                            <h2 class="text-warning">@ViewBag.CreateProError</h2>
+                            <div class="form-group">
+                                <label class="col-sm-3 control-label" for="card-holder-name"><strong>Tên Hình:</strong></label>
+                                <div class="col-sm-9">
+                                    <input type="text" class="form-control" name="name" placeholder="Nhập tên mới">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 control-label" for="expiry-month">Thay ảnh Trang Home</label>
+                                <div class="col-sm-9">
+                                    <input type="file" class="form-control" name="img" placeholder="Chọn ảnh">
+                                </div>
+                            </div>
+
+
+                            <input value="Tạo mới" type="submit" id="btnDangNhap1" class="btn btn-primary">
+
+                        </fieldset>
+                    </form>
+
+                </div>
+            </div><!--/span-->
+
+        </div><!--/row-->
+    }
+
+    @using (Html.BeginForm("Banner2", "Home", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+    {
+        <div class="row-fluid sortable">
+            <div class="box span12">
+                <div class="box-header" data-original-title>
+                    <h2><i class="halflings-icon white edit"></i><span class="break"></span>Update Banner 2</h2>
+                    <div class="box-icon">
+
+                        <a href="#" class="btn-minimize"><i class="halflings-icon white chevron-up"></i></a>
+
+                    </div>
+                </div>
+                <div class="box-content">
+                    <form class="form-horizontal">
+                        <fieldset>
+                            <h2 class="text-warning">@ViewBag.CreateProError</h2>
+                            <div class="form-group">
+                                <label class="col-sm-3 control-label" for="card-holder-name"><strong>Tên Hình:</strong></label>
+                                <div class="col-sm-9">
+                                    <input type="text" class="form-control" name="name" placeholder="Nhập tên mới">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 control-label" for="expiry-month">Thay ảnh Trang Home</label>
+                                <div class="col-sm-9">
+                                    <input type="file" class="form-control" name="img" placeholder="Chọn ảnh">
+                                </div>
+                            </div>
+
+
+                            <input value="Tạo mới" type="submit" id="btnDangNhap1" class="btn btn-primary">
+
+                        </fieldset>
+                    </form>
+
+                </div>
+            </div><!--/span-->
+
+        </div><!--/row-->
+    }
+    @using (Html.BeginForm("Banner3", "Home", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+    {
+        <div class="row-fluid sortable">
+            <div class="box span12">
+                <div class="box-header" data-original-title>
+                    <h2><i class="halflings-icon white edit"></i><span class="break"></span>Update Banner 3</h2>
+                    <div class="box-icon">
+
+                        <a href="#" class="btn-minimize"><i class="halflings-icon white chevron-up"></i></a>
+
+                    </div>
+                </div>
+                <div class="box-content">
+                    <form class="form-horizontal">
+                        <fieldset>
+                            <h2 class="text-warning">@ViewBag.CreateProError</h2>
+                            <div class="form-group">
+                                <label class="col-sm-3 control-label" for="card-holder-name"><strong>Tên Hình:</strong></label>
+                                <div class="col-sm-9">
+                                    <input type="text" class="form-control" name="name" placeholder="Nhập tên mới">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 control-label" for="expiry-month">Thay ảnh Trang Home</label>
+                                <div class="col-sm-9">
+                                    <input type="file" class="form-control" name="img" placeholder="Chọn ảnh">
+                                </div>
+                            </div>
+
+
+                            <input value="Tạo mới" type="submit" id="btnDangNhap1" class="btn btn-primary">
+
+                        </fieldset>
+                    </form>
+
+                </div>
+            </div><!--/span-->
+
+        </div><!--/row-->
+    }
+        <div style="flex-direction:row">
+            <div >
+                <p><strong>Tên của hình 1: </strong> @ViewBag.Name0</p>
+                <img src="~/Banner/@ViewBag.IMG0" alt="@ViewBag.Name0" class=" p-0 mt-3" style="height:200px;width:500px" />
+            </div>
+            <div >
+                <p><strong>Tên của hình 2: </strong> @ViewBag.Name1</p>
+                <img src="~/Banner/@ViewBag.IMG1" alt="@ViewBag.Name1" class=" p-0 mt-3"  style="height:200px;width:500px"/>
+            </div>
+            <div >
+                <p><strong>Tên của hình 3: </strong> @ViewBag.Name2</p>
+                <img src="~/Banner/@ViewBag.IMG2" alt="@ViewBag.Name2" class=" p-0 mt-3"  style="height:200px;width:500px" />
+            </div>
+
+        </div>
+</div>

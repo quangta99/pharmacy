@@ -1,0 +1,267 @@
+﻿
+@{
+    @model LTUDM.Models.UserModel
+    ViewBag.Title = Model.Name;
+}
+
+@section scripts{
+    <script>
+        $('#UserOrder').hide(); $('#chance-info').hide(); $('#chance-password').hide();
+        $('#PageUserOrder').on("click", function () {
+            $('#Infomation').hide(); $('#chance-info').hide(); $('#chance-password').hide();
+            $('#UserOrder').show();
+
+            $("#PageInfo").removeClass("bg-light");
+            $("#PageInfo").addClass("bg-light");
+            $("#PageUserOrder").remove("bg-light");
+
+        });
+
+        $('#PageInfo').on("click", function () {
+            $('#Infomation').show(); $('#chance-info').hide(); $('#chance-password').hide();
+            $('#UserOrder').hide();
+        });
+
+        $('#PageChanceInfo').on("click", function () {
+            $('#Infomation').hide(); $('#chance-info').show(); $('#chance-password').hide();
+            $('#UserOrder').hide();
+        });
+
+        $('#PageChancePass').on("click", function () {
+            $('#Infomation').hide(); $('#chance-info').hide(); $('#chance-password').show();
+            $('#UserOrder').hide();
+        });
+
+
+
+    </script>
+}
+@if (Session["user"] == null)
+{
+    <div class="alert alert-success mt-5">
+        <strong>Vui lòng đăng nhập</strong>
+        <a href="@Url.Action("Login","Login")">Đăng nhập</a>
+    </div>
+}
+else
+{
+    <div class="container-fluid p-2">
+
+        <!--User name and Avata-->
+        <div class="">
+            <div class="col-lg-12 flex justify-content-center text-center" style="background-image: url('https://cdn2.vectorstock.com/i/1000x1000/66/41/medicine-pharmacy-banner-medications-and-pills-vector-21836641.jpg'); min-height: 250px">
+                @if (Model.Img == null)
+                {
+                    <img src="https://thumbs.dreamstime.com/b/no-image-available-icon-photo-camera-flat-vector-illustration-132483141.jpg" alt="" class="rounded-circle p-0 mt-3" style="width:180px;height:150px" />
+                }
+                else
+                {
+                    <img src="~/Image/@Model.Img" alt="" class="rounded-circle p-0 mt-3 img-infor" style="width:180px;height:150px" />
+                }
+            <div class="p-2 row justify-content-center">
+                <div class="col-lg-6 username-form">
+                    <h5 class="mt-2">@Model.Email</h5>
+                </div>
+            </div>
+            </div>
+        </div>
+        <div class="container flex-column justify-content-center text-center mt-3">
+            @if (ViewBag.message == "Mật khẩu cũ không đúng")
+            {
+                <p class="text-danger">@ViewBag.message</p>
+            }
+            else if (ViewBag.message == "Thay đổi mật khẩu thành công")
+            {
+                <p class="text-success">@ViewBag.message</p>
+            }
+        </div>
+        <!--Các nút chức năng trong userProfile-->
+        <div class="jumbotron" style="margin-top:30px;background-color:white">
+            <div class="row">
+                <div class="col-sm-3">
+                    <ul class="nav nav-pills flex-column">
+                        <li class="nav-item row">
+                            <a class="nav-link bg-light" href="#" id="PageInfo" style="width:100%"><i class="fas fa-user"></i>   Thông tin người dùng</a>
+                        </li>
+                        <li class="nav-item row">
+                            <a class="nav-link bg-light" href="#" id="PageUserOrder" style="width:100%"><i class="fas fa-shopping-cart"></i>   Đơn hàng của tôi</a>
+                        </li>
+                        <li class="nav-item row">
+                            <a class="nav-link bg-light" href="#" id="PageChanceInfo" style="width:100%"><i class="fas fa-user-cog"></i>   Thay đổi thông tin</a>
+                        </li>
+                        <li class="nav-item row">
+                            <a class="nav-link bg-light" href="#" id="PageChancePass" style="width:100%"><i class="fas fa-lock"></i>   Thay đổi mật khẩu</a>
+                        </li>
+                        <li class="nav-item row">
+                            <a class="nav-link bg-light" href="#" id="LogOut" onclick="window.location='@Url.Action("LogOut","User")'" style="width:100%"><i class="fas fa-arrow-right"></i>Đăng xuất</a>
+                        </li>
+                    </ul>
+                    <hr class="d-sm-none">
+                </div>
+
+                <div class="col-sm-9">
+
+                    <!--Thong tin-->
+                    <div id="Infomation">
+                        <h2>Thông Tin Người dùng:</h2>
+                        <div class="card mb-3" style="max-width: 700px;">
+                            <div class="row no-gutters">
+                                <div class="col-md-9">
+                                    <div class="card-body">
+                                        <h4 class="card-title">UserName</h4>
+                                        <table class="table table-borderless">
+                                            <tbody>
+                                                <tr>
+                                                    <td><p style="font-weight:bold">Họ và tên:</p></td>
+                                                    <td><p>@Model.Name</p></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><p style="font-weight:bold">Email:</p></td>
+                                                    <td><p>@Model.Email</p></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><p style="font-weight:bold">SĐT:</p></td>
+                                                    <td><p>@Model.Phone</p></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><p style="font-weight:bold">Địa chỉ:</p></td>
+                                                    <td><p>@Model.Direct</p></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--Thong tin don hàng của user-->
+                    <div class="row-fluid sortable" id="UserOrder">
+                        <div class="box span12">
+                            <div class="box-header" data-original-title>
+                                <h2><i class="halflings-icon white user"></i><span class="break"></span>Đơn Hàng</h2>
+                                <div class="box-icon">
+                                    <a href="#" class="btn-setting"><i class="halflings-icon white wrench"></i></a>
+                                    <a href="#" class="btn-minimize"><i class="halflings-icon white chevron-up"></i></a>
+                                    <a href="#" class="btn-close"><i class="halflings-icon white remove"></i></a>
+                                </div>
+                            </div>
+                            <div class="box-content" style="overflow:auto">
+                                <table class="table table-striped table-bordered bootstrap-datatable datatable">
+                                    <thead>
+                                        <tr>
+                                            <th>Mã Đơn hàng</th>
+                                            <th>Ngày mua</th>
+                                            <th>Tổng tiền</th>
+                                            <th>Trạng thái</th>
+
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+
+                                        @foreach (var i in ViewBag.Order)
+                                        {
+                                            <tr>
+                                                <td class="center">
+                                                    <div class="eclipse-text">
+                                                        <a href="@Url.Action("OrderDetail","User", new { id = i.OrderID })">@i.OrderID</a>
+                                                    </div>
+                                                </td>
+                                                <td class="center">@i.OrderDate</td>
+                                                <td class="center">@i.TotalPrice</td>
+                                                <td class="center">@i.OrderStatus</td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+
+                    <!--Thay doi thong tin-->
+                    <div id="chance-info">
+                        @using (Html.BeginForm("ChangeInfor", "User", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+                        {
+                            <fieldset>
+                                <h2>Thay đổi thông tin</h2>
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label" for="expiry-month">Thay ảnh đại diện</label>
+                                    <div class="col-sm-9">
+                                        <input type="file" class="form-control" name="img" placeholder="Chọn ảnh đại diện">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label" for="card-holder-name">Tên</label>
+                                    <div class="col-sm-9">
+                                        <input type="text" class="form-control" name="name" placeholder="Nhập tên mới">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label" for="card-holder-name">Địa chỉ</label>
+                                    <div class="col-sm-9">
+                                        <input type="text" class="form-control" name="direct" placeholder="Nhập địa chỉ">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label" for="card-number">
+                                        Số điện
+                                    </label>
+                                    <div class="col-sm-9">
+                                        <input type="tel" class="form-control" name="phone" placeholder="Nhập SĐT của bạn">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="p-3">
+                                        <p class="text-primary">Nhập thông tin mà bạn muốn thay đổi</p>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="col-sm-offset-3 col-sm-9">
+                                        <button type="submit" class="btn btn-primary">Thay đổi</button>
+                                    </div>
+                                </div>
+                            </fieldset>
+                        }
+                    </div>
+
+                    <!--Thay doi Mật Khẩu-->
+                    <div id="chance-password">
+                        @using (Html.BeginForm("ChangePassword", "User"))
+                        {
+                            <h2>Thay đổi Mật khẩu</h2>
+                            <div>
+                                <label class="col-sm-3 control-label" for="card-holder-name">Nhập lại mật khẩu cũ</label>
+                                <div class="col-sm-9">
+                                    <input type="password" class="form-control" name="oldPass" placeholder="Nhập lại mật khẩu cũ">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 control-label" for="card-number">Nhập mật khẩu mới</label>
+                                <div class="col-sm-9">
+                                    <input type="password" class="form-control" name="newPass" placeholder="Nhập mật khẩu mới">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 control-label" for="card-number">Nhập lại mật khẩu mới</label>
+                                <div class="col-sm-9">
+                                    <input type="password" class="form-control" name="reNewPass" placeholder="Nhập lại mật khẩu mới">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-sm-offset-3 col-sm-9">
+                                    <button type="submit" class="btn btn-primary">Thay đổi</button>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+

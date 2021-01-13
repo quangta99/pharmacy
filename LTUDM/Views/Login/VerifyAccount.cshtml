@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "VerifyAccount";
+}
+
+<h2>VerifyAccount</h2>
+@if (ViewBag.Status != null && Convert.ToBoolean(ViewBag.Status))
+{
+    <div class="alert alert-success">
+        <strong>Tạo tài khoản thành công!</strong> Tài khoản đã kích hoạt thành công. Nhấn vào đây để đăng nhập @Html.ActionLink("Login", "Login", "Login")
+    </div>
+}
+else
+{
+    <div class="alert alert-danger">
+        <strong>Error!</strong> @ViewBag.Message
+    </div>
+}

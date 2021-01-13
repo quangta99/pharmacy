@@ -1,0 +1,53 @@
+﻿@{
+    ViewBag.Title = "Register";
+}
+<div class="page-header-cart" style="background-image:url(https://media.istockphoto.com/vectors/pharmacy-business-medicine-drug-store-character-pharmacist-care-for-vector-id1133376756)">
+    <div class="container justify-content-center" style="display:flex; flex-wrap:wrap; align-content:center">
+        <div class="register-form m-4 col-lg-6">
+            <form class="p-4" method="post">
+                @using (Ajax.BeginForm("Register", "Login", new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "ThongBao" }))
+                {
+                    <h2 class="text-center" style="color:white">Đăng kí</h2>
+                    <div class="form-group">
+                        <input type="email" class="form-control" name="email" placeholder="Email" required="required">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" name="name" placeholder="Tên" required="required">
+                    </div>
+                    <div class="form-group">
+                        <input type="tel" class="form-control" name="phone" placeholder="Số điện thoại" required="required">
+                    </div>
+                    <div class="form-group">
+                        <input type="password" id="pass" class="form-control" name="password" placeholder="Mật khẩu" required="required">
+                    </div>
+                    <div class="form-group">
+                        <input type="password" id="repass" class="form-control" name="confirmpassword" placeholder="Nhập lại mật khẩu" required="required">
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary btn-lg btn-block" id="btnRegis">Đăng kí</button>
+                    </div>
+                }
+                <div class="alert alert-danger text-center" style="display:contents">
+                    <h4 class="text-danger">@ViewBag.message</h4>
+                </div>
+            </form>
+            <p class="text-center" style="font:6px;color:darkgrey">Đã có tài khoản? <a href="@Url.Action("Login","Login")">Đăng nhập</a></p>
+        </div>
+
+    </div>
+</div>
+@section scripts{
+    <script type="text/javascript">
+
+
+        $("#btnRegis").click(function () {
+            var pass = $("#pass").val();
+            var repass = $("#repass").val();
+            if (repass != pass) {
+                alert("Mật khẩu không khớp");
+                return;
+            }
+        });
+
+    </script>
+}

@@ -1,0 +1,132 @@
+﻿
+@{
+    ViewBag.Title = "Giỏ hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+@using LTUDM.Models
+<div class="page-header-cart" style="background-image:url(https://media.istockphoto.com/vectors/modern-interior-pharmacy-with-male-pharmacist-vector-id610541230);">
+    <div class="container">
+        @if (ViewBag.prCart == null || ViewBag.lenghtPrCart == 0)
+        {
+            <div class="alert alert-danger">
+                <p style="font-size:2em;padding:10px;margin:10px"> Giỏ hàng rỗng !! </p>
+                <a href="@Url.Action("Index", "Home")" style="font-size:2em;padding:10px;margin:10px">    Vui lòng quay trở lại trang chủ để mua hàng !! </a>
+            </div>
+        }
+        else
+        {
+            <div class="row p-4">
+                <div class="col-lg-8 mr-2 mb-1">
+                    @foreach (var item in ViewBag.prCart)
+                    {
+                        foreach (var itemDatabase in ViewBag.prDatabase)
+                        {
+                            int checkStatus = 1;
+                            if (itemDatabase.status == false)
+                            {
+                                checkStatus += 0;
+                            }
+                            else
+                            {
+                                checkStatus += 1;
+                            }
+                            if (item.ProductID == itemDatabase.ProductID)
+                            {
+                                if (item.Quantity > itemDatabase.Quantity || checkStatus == 1)
+                                {
+                                    <div class="cart-form">
+                                        <div class="row justify-content-center align-items-center p-3 ml-auto mr-auto mb-auto mt-1 text-white text-center mb-1">
+                                            <div class="col-lg-3"><img class="img-fluid" src="@item.img[0]" /></div>
+                                            <div class="col-lg-2"><div class="product-name" style="max-width:150px">@item.ProductName</div></div>
+                                            <div class="col-lg-1">@string.Format("{0:0,0 VNĐ}", item.Price)</div>
+                                            if (itemDatabase.Quantity == 0)
+                                            {
+                                            <div class="col-lg-3">
+                                                Sản phẩm đã hết hàng
+                                            </div>
+                                            }
+                                            else if (itemDatabase.status == false)
+                                            {
+                                            <div class="col-lg-3">
+                                                Sản phẩm đã ngừng kinh doanh
+                                            </div>
+                                            }
+                                            else
+                                            {
+                                            <div class="col-lg-3">
+                                                Số lượng hàng cung cấp không đủ
+                                            </div>
+                                            }
+                                            <div class="col-lg-1">0</div>
+                                            <div class="col-lg-1"><a class="btn" href="@Url.Action("Remove", "Cart", new { id = item.ProductID })"><i class="fas fa-trash" style="color:red"></i></a></div>
+                                        </div>
+                                    </div>
+                                        }
+                                        else
+                                        {
+                                            <div class="cart-form">
+                                                <div class="row justify-content-center align-items-center p-3 ml-auto mr-auto mb-auto mt-1 text-white text-center mb-1">
+                                                    <div class="col-lg-2 col-md-2 col-sm-2"><img class="img-fluid img-fluid-cart" src="@item.img[0]" /></div>
+                                                    <div class="col-lg-2 col-md-2 col-sm-2 d-flex justify-content-center"><div class="product-name eclipse-text text-center" style="max-width:150px">@item.ProductName</div></div>
+                                                    <div class="col-lg-2 col-md-2 col-sm-2">@string.Format("{0:0,0 VNĐ}", item.Price)</div>
+                                                    <div class="col-lg-3 col-md-3 col-sm-3">
+                                                        <div class="input-group justify-content-center">
+                                                            <div class="input-group-prepend">
+                                                                <button class="btn btn-outline-primary prepend" onclick="window.location='@Url.Action("Subtract", "Cart", new { id = item.ProductID })'">&minus;</button>
+                                                            </div>
+                                                            <input style="max-width:70px" class="text-center form-control input-box" type="text" placeholder="@item.Quantity" />
+                                                            <div class="input-group-append">
+                                                                <button class="btn btn-outline-primary append" onclick="window.location='@Url.Action("Add", "Cart", new { id = item.ProductID })'">&plus;</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    @{decimal a = item.Price * item.Quantity;}
+                                                    <div class="col-lg-2 col-md-2 col-sm-2">@string.Format("{0:0,0 VNĐ}", a)</div>
+                                                    <div class="col-lg-1 col-md-1 col-sm-1"><button class="btn remove-icon" onclick="window.location='@Url.Action("Remove","Cart", new { id = item.ProductID })'"><i class="fas fa-trash" style="color:red"></i></button></div>
+                                                </div>
+                                            </div>
+                                        }
+                                        }
+                                        }
+                                        }
+                                    <div class="row">
+                                        <div class="col-lg-4 d-flex justify-content-center">
+                                            <a href="@Url.Action("Product","Product")" class="btn btn-primary mt-1">
+                                                Tiếp tục mua hàng
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                <div class="col-lg-3 mr-2 mb-1">
+                    <div class="cart-form text-center">
+                        <h5 class="text-white p-1">Tạm tính</h5>
+                        <br />
+                        <div class="align-items-center" style="display:flex">
+                            <table class="table-bill table table-cart table-sm text-white text-center">
+                                <tr>
+                                    <th>Số lượng</th>
+                                    <td>@ViewBag.tongsoluong</td>
+                                </tr>
+                                <tr>
+                                    <th>Tổng tiền</th>
+                                    <td>@string.Format("{0:0,0 VNĐ}", ViewBag.Total)</td>
+                                </tr>
+                            </table>
+                        </div>
+                        <div class="p-1">
+                            @if (ViewBag.tongsoluong == 0)
+                            {
+                                <a class="text-white btn btn-dark mt-4">Hết hàng</a>
+                            }
+                            else
+                            {
+                                <a href="@Url.Action("Payment","Cart")" class="text-black btn btn-danger mt-4">Tiến hành thanh toán</a>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

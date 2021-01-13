@@ -1,0 +1,109 @@
+﻿@{
+    ViewBag.Title = "CreatProduct";
+    Layout = "~/Areas/Admin/Views/Shared/_Layou1.cshtml";
+    @model LTUDM.Models.ProductModel
+}
+
+
+
+<div id="content" class="span10">
+
+
+
+
+    @using (Html.BeginForm("CreatProduct", "Product"))
+    {
+        <div class="row-fluid sortable">
+            <div class="box span12">
+                <div class="box-header" data-original-title>
+                    <h2><i class="halflings-icon white edit"></i><span class="break"></span>Insert Product</h2>
+                    <div class="box-icon">
+
+                        <a href="#" class="btn-minimize"><i class="halflings-icon white chevron-up"></i></a>
+
+                    </div>
+                </div>
+                <div class="box-content">
+                    <form class="form-horizontal">
+                        <fieldset>
+                            <h2 class="text-warning">@ViewBag.CreateProError</h2>
+                            <div class="control-group">
+                                <label class="control-label" for="focusedInput"><strong>Mã sản phẩm:</strong></label>
+                                <div class="controls">
+                                    <div>@Html.TextBoxFor(m => m.ProductID)</div>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label"><strong>Tên sản phẩm:</strong></label>
+                                <div class="controls">
+                                    <div>@Html.TextBoxFor(m => m.ProductName)</div>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label"><strong>Mã loại sản phẩm:</strong></label>
+                                <div class="controls">
+                                    <div>@Html.TextBoxFor(m => m.Type.CategoryID)</div>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label"><strong>Nhà cung cấp:</strong></label>
+                                <div class="controls">
+                                    <div>@Html.TextBoxFor(m => m.Producer)</div>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label"><strong>Đơn giá:</strong></label>
+                                <div class="controls">
+                                    <div>@Html.TextBoxFor(m => m.Price)</div>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label"><strong>Nhập chiết khấu:</strong></label>
+                                <div class="controls">
+                                    <div>@Html.TextBoxFor(m => m.discount)</div>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label"><strong>Số lượng sản phẩm:</strong></label>
+                                <div class="controls">
+                                    <div>@Html.TextBoxFor(m => m.Quantity)</div>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label"><strong>Mô tả sản phẩm:</strong></label>
+                                <div class="controls">
+                                    <div>@Html.TextAreaFor(m => m.Description)</div>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label"><strong>Thêm hình sản phẩm:</strong></label>
+                                <div class="controls">
+                                    <div>@Html.TextBoxFor(m => m.img[0])</div>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label"><strong>Thêm hình sản phẩm:</strong></label>
+                                <div class="controls">
+                                    <div>@Html.TextBoxFor(m => m.img[1])</div>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label"><strong>Thêm hình sản phẩm:</strong></label>
+                                <div class="controls">
+                                    <div>@Html.TextBoxFor(m => m.img[2])</div>
+                                </div>
+                            </div>
+
+
+
+                            <input value="Tạo mới" type="submit" id="btnDangNhap1" class="btn btn-primary">
+
+                        </fieldset>
+                    </form>
+
+                </div>
+            </div><!--/span-->
+
+        </div><!--/row-->
+    }
+</div>

@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewBag.Title = "CreatProduct";
+    Layout = "~/Areas/Admin/Views/Shared/_Layou1.cshtml";
+    @model LTUDM.Models.ProductModel
+}
+<div id="content" class="span10">
+    <h2>Tạo sản phẩm mới</h2>
+
+    @using (Html.BeginForm("Create", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+
+
+        <div class="form-horizontal">
+            <hr />
+            @Html.ValidationSummary(true)
+            <div class="text-success">
+                @ViewBag.CreateProError
+            </div>
+            <div class="form-group col-lg-5">
+                <label>Mã sản phẩm</label>
+                @Html.EditorFor(model => model.ProductID, new { htmlAttributes = new { @class = "form-control", @placeholder = "Nhập mã sản phẩm..." } })
+                <div class="text-danger">@Html.ValidationMessageFor(model => model.ProductID)</div>
+
+                <label>Loại sản phẩm</label>
+                @Html.EditorFor(model => model.Type.CategoryID, new { @class = "form-control" })
+
+                <label>Hãng sản xuất</label>
+                @Html.EditorFor(model => model.Producer, new { @class = "form-control" })
+
+                <label>Tên sản phẩm</label>
+                @Html.EditorFor(model => model.ProductName, new { htmlAttributes = new { @class = "form-control", @placeholder = "Nhập tên sản phẩm..." } })
+                <div class="text-danger">@Html.ValidationMessageFor(model => model.ProductName)</div>
+
+
+                <label>Đơn giá</label>
+                @Html.EditorFor(model => model.Price, new { htmlAttributes = new { @class = "form-control", @placeholder = "Nhập đơn giá sản phẩm..." } })
+                <div class="text-danger">@Html.ValidationMessageFor(model => model.Price)</div>
+
+                <label>Chiết khấu</label>
+                @Html.EditorFor(model => model.discount, new { htmlAttributes = new { @class = "form-control", @placeholder = "Nhập chiết khấu (%)..." } })
+                <div class="text-danger">@Html.ValidationMessageFor(model => model.discount)</div>
+
+                <label>Hình ảnh</label>
+                <input type="file" id="file" name="file" />
+                <div class="text-danger">@ViewBag.HinhAnh</div>
+
+                <label>Mô tả</label>
+                @Html.TextAreaFor(model => model.Description, new { @class = "form-control", @placeholder = "Nhập mô tả sản phẩm..." })
+                <div class="text-danger">@Html.ValidationMessageFor(model => model.Description)</div>
+                <br />
+                <input type="submit" value="Tạo mới" class="btn btn-default" />
+            </div>
+        </div>
+    }
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+

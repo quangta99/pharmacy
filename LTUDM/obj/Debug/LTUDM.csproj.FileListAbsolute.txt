@@ -1,0 +1,1207 @@
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\LTUDM.dll.config
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\LTUDM.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\LTUDM.pdb
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.exe
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.exe.config
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.rsp
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.exe
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.exe.config
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.rsp
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.AppContext.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Console.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Net.Http.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.ValueTuple.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.exe
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.exe.config
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.rsp
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\Antlr3.Runtime.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\Newtonsoft.Json.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\System.Web.Helpers.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\System.Web.Mvc.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\System.Web.Optimization.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\System.Web.Razor.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\WebGrease.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\System.Web.Helpers.xml
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\System.Web.Mvc.xml
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\System.Web.Optimization.xml
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\System.Web.Razor.xml
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.xml
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.xml
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\Newtonsoft.Json.xml
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\Antlr3.Runtime.pdb
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csprojAssemblyReference.cache
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CoreCompileInputs.cache
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CopyComplete
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.dll
+C:\Users\txqse\source\repos\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.pdb
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\mongocrypt.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\LTUDM.dll.config
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\LTUDM.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\LTUDM.pdb
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.exe
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.exe.config
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.rsp
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.exe
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.exe.config
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.rsp
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.AppContext.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Console.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Net.Http.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.ValueTuple.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.exe
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.exe.config
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.rsp
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\Antlr3.Runtime.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\Crc32C.NET.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\DnsClient.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Bson.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.Core.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Libmongocrypt.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\Newtonsoft.Json.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\SharpCompress.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\Snappy.NET.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Buffers.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Helpers.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Mvc.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Optimization.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Razor.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\WebGrease.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\Crc32C.NET.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\DnsClient.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Bson.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.Core.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\Snappy.NET.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Buffers.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Helpers.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Mvc.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Optimization.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Razor.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\Newtonsoft.Json.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\Antlr3.Runtime.pdb
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CoreCompileInputs.cache
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CopyComplete
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.pdb
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\lab3- TH thu 6\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csprojAssemblyReference.cache
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\mongocrypt.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\LTUDM.dll.config
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\LTUDM.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\LTUDM.pdb
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.exe
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.exe.config
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.rsp
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.exe
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.exe.config
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.rsp
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.AppContext.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Collections.Immutable.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Console.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Globalization.Calendars.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Net.Http.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Net.Sockets.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Reflection.Metadata.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.ValueTuple.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.exe
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.exe.config
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.rsp
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe.config
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\Antlr3.Runtime.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\Crc32C.NET.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\DnsClient.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\Microsoft.Web.Infrastructure.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Bson.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.Core.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Libmongocrypt.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\Newtonsoft.Json.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\SharpCompress.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\Snappy.NET.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Buffers.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Helpers.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Mvc.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Optimization.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Razor.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\WebGrease.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\Crc32C.NET.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\DnsClient.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Bson.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.Core.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\Snappy.NET.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Buffers.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Helpers.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Mvc.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Optimization.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Razor.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\Newtonsoft.Json.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\Antlr3.Runtime.pdb
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csprojAssemblyReference.cache
+D:\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CoreCompileInputs.cache
+D:\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CopyComplete
+D:\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.pdb
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\EntityFramework.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\EntityFramework.SqlServer.dll
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\EntityFramework.xml
+D:\LTUDM\LTUDM\LTUDM\LTUDM\bin\EntityFramework.SqlServer.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csprojAssemblyReference.cache
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CoreCompileInputs.cache
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.pdb
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\mongocrypt.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\LTUDM.dll.config
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\LTUDM.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\LTUDM.pdb
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.exe
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.exe.config
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.rsp
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.exe
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.exe.config
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.rsp
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.AppContext.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Console.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Net.Http.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.ValueTuple.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.exe
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.exe.config
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.rsp
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Antlr3.Runtime.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Crc32C.NET.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\DnsClient.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\EntityFramework.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\EntityFramework.SqlServer.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Bson.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.Core.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Libmongocrypt.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Newtonsoft.Json.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\SharpCompress.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Snappy.NET.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Buffers.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Helpers.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Mvc.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Optimization.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Razor.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\WebGrease.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Crc32C.NET.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\DnsClient.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\EntityFramework.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\EntityFramework.SqlServer.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Bson.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.Core.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Snappy.NET.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Buffers.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Helpers.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Mvc.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Optimization.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Razor.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Newtonsoft.Json.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Antlr3.Runtime.pdb
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CopyComplete
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\mongocrypt.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\LTUDM.dll.config
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\LTUDM.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\LTUDM.pdb
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.exe
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.exe.config
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.rsp
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.exe
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.exe.config
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.rsp
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Console.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.exe
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.rsp
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Crc32C.NET.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\DnsClient.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\EntityFramework.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Bson.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.Core.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\SharpCompress.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Snappy.NET.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Buffers.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\WebGrease.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Crc32C.NET.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\DnsClient.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\EntityFramework.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Bson.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.Core.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Snappy.NET.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Buffers.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Optimization.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CopyComplete
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.pdb
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\PagedList.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\PagedList.Mvc.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\PagedList.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\LTUDM\LTUDM\LTUDM\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\mongocrypt.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\LTUDM.dll.config
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\LTUDM.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\LTUDM.pdb
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\Crc32C.NET.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\DnsClient.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\MongoDB.Bson.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\MongoDB.Driver.Core.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\MongoDB.Driver.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\PagedList.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\SharpCompress.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\Snappy.NET.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\System.Buffers.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\WebGrease.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\Crc32C.NET.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\DnsClient.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\MongoDB.Bson.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\MongoDB.Driver.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\MongoDB.Driver.Core.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\PagedList.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\Snappy.NET.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\System.Buffers.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\LTUDM\LTUDM\obj\Debug\LTUDM.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CopyComplete
+C:\Users\Admin\Desktop\LTUDM\LTUDM\obj\Debug\LTUDM.dll
+C:\Users\Admin\Desktop\LTUDM\LTUDM\obj\Debug\LTUDM.pdb
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\mongocrypt.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\LTUDM.dll.config
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\LTUDM.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\LTUDM.pdb
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.exe
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.exe.config
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.rsp
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.exe
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.exe.config
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.rsp
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.AppContext.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Console.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Net.Http.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.ValueTuple.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.exe
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.exe.config
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.rsp
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\Antlr3.Runtime.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\Crc32C.NET.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\DnsClient.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\EntityFramework.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\EntityFramework.SqlServer.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\MongoDB.Bson.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.Core.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\MongoDB.Libmongocrypt.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\Newtonsoft.Json.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\PagedList.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\PagedList.Mvc.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\SharpCompress.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\Snappy.NET.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\System.Buffers.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\System.Web.Helpers.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\System.Web.Mvc.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\System.Web.Optimization.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\System.Web.Razor.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\WebGrease.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\Crc32C.NET.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\DnsClient.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\EntityFramework.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\EntityFramework.SqlServer.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\MongoDB.Bson.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.Core.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\PagedList.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\PagedList.Mvc.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\Snappy.NET.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\System.Buffers.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\System.Web.Helpers.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\System.Web.Mvc.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\System.Web.Optimization.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\System.Web.Razor.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\Newtonsoft.Json.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\Antlr3.Runtime.pdb
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csprojAssemblyReference.cache
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CoreCompileInputs.cache
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CopyComplete
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.dll
+C:\Users\DHC For User\Desktop\Đồ án chuyên ngành\Updatenoi nhat\Update 7_12\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.pdb
+D:\LTUDM\LTUDM\LTUDM\bin\mongocrypt.dll
+D:\LTUDM\LTUDM\LTUDM\bin\LTUDM.dll.config
+D:\LTUDM\LTUDM\LTUDM\bin\LTUDM.dll
+D:\LTUDM\LTUDM\LTUDM\bin\LTUDM.pdb
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.exe
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.exe.config
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.rsp
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.exe
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.exe.config
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.rsp
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.AppContext.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Collections.Immutable.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Console.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Globalization.Calendars.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Net.Http.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Net.Sockets.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Reflection.Metadata.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.ValueTuple.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.exe
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.exe.config
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.rsp
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe
+D:\LTUDM\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe.config
+D:\LTUDM\LTUDM\LTUDM\bin\Antlr3.Runtime.dll
+D:\LTUDM\LTUDM\LTUDM\bin\Crc32C.NET.dll
+D:\LTUDM\LTUDM\LTUDM\bin\DnsClient.dll
+D:\LTUDM\LTUDM\LTUDM\bin\EntityFramework.dll
+D:\LTUDM\LTUDM\LTUDM\bin\EntityFramework.SqlServer.dll
+D:\LTUDM\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LTUDM\LTUDM\LTUDM\bin\Microsoft.Web.Infrastructure.dll
+D:\LTUDM\LTUDM\LTUDM\bin\MongoDB.Bson.dll
+D:\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.Core.dll
+D:\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.dll
+D:\LTUDM\LTUDM\LTUDM\bin\MongoDB.Libmongocrypt.dll
+D:\LTUDM\LTUDM\LTUDM\bin\Newtonsoft.Json.dll
+D:\LTUDM\LTUDM\LTUDM\bin\PagedList.dll
+D:\LTUDM\LTUDM\LTUDM\bin\PagedList.Mvc.dll
+D:\LTUDM\LTUDM\LTUDM\bin\SharpCompress.dll
+D:\LTUDM\LTUDM\LTUDM\bin\Snappy.NET.dll
+D:\LTUDM\LTUDM\LTUDM\bin\System.Buffers.dll
+D:\LTUDM\LTUDM\LTUDM\bin\System.Web.Helpers.dll
+D:\LTUDM\LTUDM\LTUDM\bin\System.Web.Mvc.dll
+D:\LTUDM\LTUDM\LTUDM\bin\System.Web.Optimization.dll
+D:\LTUDM\LTUDM\LTUDM\bin\System.Web.Razor.dll
+D:\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.dll
+D:\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.dll
+D:\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.dll
+D:\LTUDM\LTUDM\LTUDM\bin\WebGrease.dll
+D:\LTUDM\LTUDM\LTUDM\bin\Crc32C.NET.xml
+D:\LTUDM\LTUDM\LTUDM\bin\DnsClient.xml
+D:\LTUDM\LTUDM\LTUDM\bin\EntityFramework.xml
+D:\LTUDM\LTUDM\LTUDM\bin\EntityFramework.SqlServer.xml
+D:\LTUDM\LTUDM\LTUDM\bin\MongoDB.Bson.xml
+D:\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.xml
+D:\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.Core.xml
+D:\LTUDM\LTUDM\LTUDM\bin\PagedList.xml
+D:\LTUDM\LTUDM\LTUDM\bin\PagedList.Mvc.xml
+D:\LTUDM\LTUDM\LTUDM\bin\Snappy.NET.xml
+D:\LTUDM\LTUDM\LTUDM\bin\System.Buffers.xml
+D:\LTUDM\LTUDM\LTUDM\bin\System.Web.Helpers.xml
+D:\LTUDM\LTUDM\LTUDM\bin\System.Web.Mvc.xml
+D:\LTUDM\LTUDM\LTUDM\bin\System.Web.Optimization.xml
+D:\LTUDM\LTUDM\LTUDM\bin\System.Web.Razor.xml
+D:\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.xml
+D:\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.xml
+D:\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.xml
+D:\LTUDM\LTUDM\LTUDM\bin\Newtonsoft.Json.xml
+D:\LTUDM\LTUDM\LTUDM\bin\Antlr3.Runtime.pdb
+D:\LTUDM\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csprojAssemblyReference.cache
+D:\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CoreCompileInputs.cache
+D:\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CopyComplete
+D:\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.dll
+D:\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.pdb
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\mongocrypt.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\LTUDM.dll.config
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\LTUDM.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\LTUDM.pdb
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.exe
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.exe.config
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\csc.rsp
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.exe
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.exe.config
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\csi.rsp
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.AppContext.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Collections.Immutable.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Console.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Globalization.Calendars.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Net.Http.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Net.Sockets.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.ValueTuple.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.exe
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.exe.config
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\vbc.rsp
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe.config
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\Antlr3.Runtime.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\Crc32C.NET.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\DnsClient.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\EntityFramework.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\EntityFramework.SqlServer.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\Microsoft.Web.Infrastructure.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\MongoDB.Bson.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.Core.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\MongoDB.Libmongocrypt.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\Newtonsoft.Json.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\PagedList.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\PagedList.Mvc.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\SharpCompress.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\Snappy.NET.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\System.Buffers.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\System.Web.Helpers.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\System.Web.Mvc.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\System.Web.Optimization.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\System.Web.Razor.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\WebGrease.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\Crc32C.NET.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\DnsClient.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\EntityFramework.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\EntityFramework.SqlServer.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\MongoDB.Bson.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\MongoDB.Driver.Core.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\PagedList.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\PagedList.Mvc.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\Snappy.NET.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\System.Buffers.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\System.Web.Helpers.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\System.Web.Mvc.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\System.Web.Optimization.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\System.Web.Razor.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\Newtonsoft.Json.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\Antlr3.Runtime.pdb
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csprojAssemblyReference.cache
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CoreCompileInputs.cache
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CopyComplete
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.dll
+D:\Tuan\User\Downloads\LTUDM\LTUDM\LTUDM\obj\Debug\LTUDM.pdb
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\mongocrypt.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\LTUDM.dll.config
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\LTUDM.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\LTUDM.pdb
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\Crc32C.NET.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\DnsClient.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\MongoDB.Bson.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\MongoDB.Driver.Core.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\MongoDB.Driver.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\PagedList.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\SharpCompress.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\Snappy.NET.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\System.Buffers.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\WebGrease.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\Crc32C.NET.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\DnsClient.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\MongoDB.Bson.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\MongoDB.Driver.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\MongoDB.Driver.Core.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\PagedList.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\Snappy.NET.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\System.Buffers.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\LTUDM\LTUDM\obj\Debug\LTUDM.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CopyComplete
+C:\Users\Admin\Downloads\LTUDM\LTUDM\obj\Debug\LTUDM.dll
+C:\Users\Admin\Downloads\LTUDM\LTUDM\obj\Debug\LTUDM.pdb
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\mongocrypt.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\LTUDM.dll.config
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\LTUDM.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\LTUDM.pdb
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\csc.exe
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\csc.exe.config
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\csc.rsp
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\csi.exe
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\csi.exe.config
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\csi.rsp
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Console.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\vbc.exe
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\vbc.rsp
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\Crc32C.NET.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\DnsClient.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\EntityFramework.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\MongoDB.Bson.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\MongoDB.Driver.Core.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\MongoDB.Driver.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\PagedList.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\PagedList.Mvc.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\SharpCompress.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\Snappy.NET.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\System.Buffers.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\WebGrease.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\Crc32C.NET.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\DnsClient.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\EntityFramework.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\MongoDB.Bson.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\MongoDB.Driver.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\MongoDB.Driver.Core.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\PagedList.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\PagedList.Mvc.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\Snappy.NET.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\System.Buffers.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\System.Web.Optimization.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Documents\LTUDM\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\LTUDM\LTUDM\obj\Debug\LTUDM.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LTUDM\LTUDM\obj\Debug\LTUDM.csproj.CopyComplete
+C:\Users\Admin\Documents\LTUDM\LTUDM\obj\Debug\LTUDM.dll
+C:\Users\Admin\Documents\LTUDM\LTUDM\obj\Debug\LTUDM.pdb
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\mongocrypt.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\LTUDM.dll.config
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\LTUDM.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\LTUDM.pdb
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\csc.exe
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\csc.exe.config
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\csc.rsp
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\csi.exe
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\csi.exe.config
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\csi.rsp
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Console.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\vbc.exe
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\vbc.rsp
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\Crc32C.NET.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\DnsClient.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\EntityFramework.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\MongoDB.Bson.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\MongoDB.Driver.Core.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\MongoDB.Driver.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\PagedList.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\PagedList.Mvc.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\SharpCompress.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\Snappy.NET.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\System.Buffers.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\WebGrease.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\Crc32C.NET.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\DnsClient.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\EntityFramework.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\MongoDB.Bson.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\MongoDB.Driver.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\MongoDB.Driver.Core.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\PagedList.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\PagedList.Mvc.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\Snappy.NET.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\System.Buffers.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\System.Web.Optimization.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\obj\Debug\LTUDM.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\obj\Debug\LTUDM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\obj\Debug\LTUDM.csproj.CopyComplete
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\obj\Debug\LTUDM.dll
+C:\Users\Admin\Documents\LTUDM\pharmacy\LTUDM\obj\Debug\LTUDM.pdb

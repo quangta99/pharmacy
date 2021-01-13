@@ -1,0 +1,77 @@
+﻿
+@{
+    ViewBag.Title = "SingleProduct";
+    Layout = "~/Areas/Admin/Views/Shared/_Layou1.cshtml";
+    @model LTUDM.Models.UserModel
+}
+
+
+<div id="content" class="span10">
+    <div class="row-fluid">
+        <div class="box-header">
+            <h2><i class="halflings-icon white plus"></i><span class="break"></span>Product</h2>
+            <div class="box-icon">
+                <a href="#" class="btn-minimize"><i class="halflings-icon white chevron-up"></i></a>
+            </div>
+        </div>
+        <div class="box-content">
+            <table class="table table-bordered table-striped">
+                <tr>
+                    <td><strong>Avata:</strong></td>
+                    <td>
+                        <img src="~/Image/@Model.Img" alt="Image" class="img-fluid p-5" height="100" width="400" style="max-height:200px">
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>ID người dùng:</strong></td>
+                    <td>
+                        <p>@Model.Id</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Tên người dùng:</strong></td>
+                    <td>
+                        <p>@Model.Name</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Email:</strong></td>
+                    <td>
+                        <p>@Model.Email</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Số điện thoại:</strong></td>
+                    <td>
+                        <p>@Model.Phone</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Địa chỉ:</strong></td>
+                    <td>
+                        <p>@Model.Direct</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Tình trạng:</strong></td>
+                    <td>
+                        @{
+                            if (Model.IsEmailVerfied == false)
+                            {
+                                <p class="btn btn-danger">Chưa kích hoạt tài khoản</p>
+                            }
+                            else
+                            {
+                               
+                                { <p class="btn btn-success">Đã kích hoạt tài khoản</p>}
+                            }
+                        }
+                    </td>
+                </tr>
+               
+              
+                </tr>
+            </table>
+        </div>
+    </div>
+</div><!--/span-->

@@ -1,0 +1,55 @@
+﻿using LTUDM.Areas.Admin.Models;
+using LTUDM.Models;
+using MongoDB.Driver;
+using Pharmacy.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+
+namespace LTUDM.Areas.Admin.Controllers
+{
+    public class HomeController : Controller
+    {
+
+        private IMongoCollection<ProductModel> GetProducts;
+        private IMongoCollection<CategoryModel> GetCategory;
+        private IMongoCollection<AdminModels> GetAdminName;
+
+        public HomeController()
+        {
+            var client = new MongoClient("mongodb://localhost:27017");
+            IMongoDatabase db = client.GetDatabase("Phamarcy");
+            this.GetProducts = db.GetCollection<ProductModel>("Products");
+            this.GetCategory = db.GetCollection<CategoryModel>("Category");
+            this.GetAdminName = db.GetCollection<AdminModels>("Admin");
+        }
+        // GET: Admin/Home
+        public ActionResult Index()
+        {
+            return View();
+        }
+
+        public ActionResult AdminPage()
+        {
+            return View();
+        }
+
+        public ActionResult LoginAdmin(FormCollection collection)
+        {
+            string TaiKhoan = collection["txtUser"].ToString();
+            string MatKhau = collection["txtPass"].ToString();
+            AdminModels result = GetAdminName.Find(n => n.AdminName == TaiKhoan && n.Password == MatKhau).FirstOrDefault();
+            if (result != null)
+            {
+                Session["user"] = result;
+                return RedirectToAction("AdminPage");
+
+            }
+            return Content ("Tài khoản hoặc mật khẩu không đúng!");
+        }
+
+
+    }
+}

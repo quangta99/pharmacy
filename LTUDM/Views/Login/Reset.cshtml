@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "Reset";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="page-header-cart" style=" background-image:url(https://media.istockphoto.com/vectors/pharmacy-business-medicine-drug-store-character-pharmacist-care-for-vector-id1133376756)">
+    <div class="container justify-content-center" style="display:flex; flex-wrap:wrap; align-content:center">
+        <div class="register-form p-4">
+            @using (Html.BeginForm("Reset", "Login", new { email = ViewBag.User }))
+            {
+                <h2 class="text-center" style="color:white">Đổi mật khẩu</h2>
+                <div class="form-group">
+                    <input type="password" class="form-control" name="password" placeholder="Nhập mật khẩu mới" id="pass" required="required">
+                </div>
+                <div class="form-group">
+                    <input type="password" class="form-control" name="repassword" placeholder="Nhập lại mật khẩu mới" id="repass" required="required">
+                </div>
+                <div class="form-group">
+                    <button id="btnReset" type="submit" class="btn btn-primary btn-lg btn-block">Xác nhận</button>
+                </div>
+            }
+            <div class="alert alert-danger text-center" style="display:contents">
+                <h4 class="text-danger">@ViewBag.Message</h4>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts{
+    <script type="text/javascript">
+
+
+        $("#btnReset").click(function () {
+            var pass = $("#pass").val();
+            var repass = $("#repass").val();
+            if (repass != pass) {
+                alert("Mật khẩu không khớp");
+                return;
+            }
+        });
+
+    </script>
+}

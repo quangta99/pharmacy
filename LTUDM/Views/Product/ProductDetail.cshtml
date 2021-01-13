@@ -1,0 +1,119 @@
+﻿
+@{
+    @model LTUDM.Models.ProductModel
+    ViewBag.Title = Model.ProductName;
+}
+<script>
+    $(document).ready(function () {
+        $('ul.tabs li').click(function () {
+            var tab_id = $(this).attr('data-tab');
+            $('ul.tabs li').removeClass('current');
+            $('.tab-content').removeClass('current');
+
+            $(this).addClass('current');
+            $("#" + tab_id).addClass('current');
+        })
+
+    })
+</script>
+<div class="" style="margin-top:30px;">
+    <div>
+        <img class="" style="max-height:200px; width:100%" src="https://previews.123rf.com/images/sergeypykhonin/sergeypykhonin1705/sergeypykhonin170500102/79400521-pharmacy-banner-medicine-medical-supplies-hospital-concept-vector-illustration-in-flat-style.jpg" />
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <a href="@Url.Action("Index","Home")" class="h6">Home</a>
+        <a href="@Url.Action("Product","Product")" class="h6">> Product</a>
+        <p class="h6">> @Model.ProductName</p>
+    </div>
+    <div class="container row mt-4">
+        <div class="col-lg-6">
+            <div id="carousel-thumb" class="carousel slide carousel-fade carousel-thumbnails" data-ride="carousel">
+                <!--Slides-->
+                <div class="carousel-inner" role="listbox">
+                    <div class="carousel-item active d-flex justify-content-center text-center">
+                        <img class="d-block img-fluid" style="max-width:250px; margin-top:15px; max-height:300px;" src="@Model.img[0]"
+                             alt="First slide">
+                    </div>
+                    <div class="carousel-item d-flex justify-content-center text-center">
+                        <img class="d-block img-fluid" style="max-width:250px; margin-top:15px; max-height:300px;" src="@Model.img[1]"
+                             alt="Second slide">
+                    </div>
+                    <div class="carousel-item d-flex justify-content-center text-center">
+                        <img class="d-block img-flui" style="max-width:250px; margin-top:15px; max-height:300px;" src="@Model.img[2]"
+                             alt="Third slide">
+                    </div>
+                </div>
+                <!--/.Slides-->
+                <!--Controls-->
+                <a class="carousel-control-prev" style="background-color: #adb5bd85;" href="#carousel-thumb" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" style="background-color: #adb5bd85;" href="#carousel-thumb" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+                <!--/.Controls-->
+                <ol class="carousel-indicators">
+                    <li data-target="#carousel-thumb" data-slide-to="0" class="active">
+                        <img src="@Model.img[0]" width="100">
+                    </li>
+                    <li data-target="#carousel-thumb" data-slide-to="1">
+                        <img src="@Model.img[1]" width="100">
+                    </li>
+                    <li data-target="#carousel-thumb" data-slide-to="2">
+                        <img src="@Model.img[2]" width="100">
+                    </li>
+                </ol>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="m-4">
+                <h4 class="text-dark">@Model.ProductName</h4>
+                <br />
+                @if (Model.discount > 0)
+                {
+                    <h5 class="text-black">@string.Format("{0:0,0 VNĐ}", Model.Price) <span class="text-warning">-@Model.discount%</span></h5>
+                }
+                else
+                {
+                    <h5 class="text-black">@string.Format("{0:0,0 VNĐ}", Model.Price)</h5>
+                }
+                <p>
+                    @Model.Description
+                </p>
+                <div class="row pl-1">
+                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                        @if (Model.status == false)
+                        {
+                            <a class="btn btn-dark text-white">Sản phẩm ngừng kinh doanh</a>
+                        }
+                        else if (Model.Quantity == 0)
+                        {
+                            <a class="btn btn-dark text-white">Hết hàng</a>
+                        }
+                        else
+                        {
+                            <a class="btn btn-danger" href="@Url.Action("Buy", "Cart",new { id =Model.ProductID, @strUrl= Request.Url.ToString() })">Thêm</a>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="rectangle mb-3" style="margin-top:50px">
+        <div>
+            <ul class="tabs" style="list-style:none">
+                <li class="tab-link current" data-tab="tab-1">Thông tin</li>
+            </ul>
+            <div id="tab-1" class="tab-content current">
+                <p>
+                    @Model.Description
+                </p>
+            </div>
+        </div>
+    </div>
+
+</div>

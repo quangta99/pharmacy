@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewBag.Title = "CreatCategory";
+    Layout = "~/Areas/Admin/Views/Shared/_Layou1.cshtml";
+    @model LTUDM.Models.CategoryModel
+}
+
+<div id="content" class="span10">
+
+
+
+
+    @using (Html.BeginForm("CreatCategory", "Category"))
+    {
+        <div class="row-fluid sortable">
+            <div class="box span12">
+                <div class="box-header" data-original-title>
+                    <h2><i class="halflings-icon white edit"></i><span class="break"></span>Insert Category</h2>
+                    <div class="box-icon">
+                      
+                        <a href="#" class="btn-minimize"><i class="halflings-icon white chevron-up"></i></a>
+                        
+                    </div>
+                </div>
+                <div class="box-content">
+                    <form class="form-horizontal">
+                        <fieldset>
+                            <h2 class="text-warning">@ViewBag.CreateProError</h2>
+                            <div class="control-group">
+                                <label class="control-label" for="focusedInput">Mã loại sản phẩm:</label>
+                                <div class="controls">
+                                    <div>@Html.TextBoxFor(m => m.CategoryID)</div>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label">Tên loại sản phẩm:</label>
+                                <div class="controls">
+                                    <div>@Html.TextBoxFor(m => m.CategoryName)</div>
+                                </div>
+                            </div>
+
+
+                            
+                                <input value="Tạo mới" type="submit" id="btnDangNhap1" class="btn btn-primary">
+                          
+                        </fieldset>
+                    </form>
+
+                </div>
+            </div><!--/span-->
+
+        </div><!--/row-->
+    }
+</div>

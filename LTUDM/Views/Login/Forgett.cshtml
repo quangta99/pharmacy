@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Forgett";
+}
+
+    <div class="page-header-cart" style=" background-image:url(https://media.istockphoto.com/vectors/pharmacy-business-medicine-drug-store-character-pharmacist-care-for-vector-id1133376756)">
+        <div class="container justify-content-center" style="display:flex; flex-wrap:wrap; align-content:center">
+            <div class="register-form p-4">
+                @using (Html.BeginForm())
+                {
+                    <h2 class="text-center" style="color:white">Quên mật khẩu</h2>
+                    <div class="form-group">
+                        <input type="text" class="form-control" name="email" placeholder="Email" required="required">
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary btn-lg btn-block">Xác nhận</button>
+                    </div>
+                }
+                <div class="alert alert-danger text-center" style="display:contents">
+                    <h4 class="text-danger">@ViewBag.Message</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+

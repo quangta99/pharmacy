@@ -1,0 +1,55 @@
+﻿    
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<body class="sign-in-up">
+    <div id="page-wrapper" class="sign-in-wrapper">
+        <div class="graphs">
+            <div class="sign-in-form">
+                <div class="sign-in-form-top">
+                    <p><a href="#">Administrator</a></p>
+                </div>
+                <div class="signin">
+                    
+                    <div class="log-input">
+                        @using (Ajax.BeginForm("LoginAdmin", "Home", new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "ThongBao" }))
+                        {
+                            <div class="log-input-left">
+                                <input class="email TaiKhoan" name="txtUser" placeholder="Tên đăng nhập" required="" type="text">
+                                <input class="password MatKhau" name="txtPass" placeholder="Mật khẩu" required="" type="password">
+                            </div>
+                            <h3 style="font-weight:bold;color:red;text-align:left;" id="ThongBao"> </h3>
+
+                            <input value="Đăng nhập" type="submit" id="btnDangNhap1">
+
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--footer section start-->
+    <!--footer section end-->
+</body>
+@section scripts{
+    <script type="text/javascript">
+
+        
+        $("#btnDangNhap1").click(function () {
+            var TaiKhoan = $(".TaiKhoan").val();
+            var MatKhau = $(".MatKhau").val();
+            //    alert("Tài khoản:" + TaiKhoan + "\n Mật khẩu:" + MatKhau);
+            if (TaiKhoan == "") {
+                alert("Nhập vào tài khoản");
+                return;
+            }
+            if (MatKhau == "") {
+                alert("Nhập vào mật khẩu");
+                return;
+            }
+        });
+
+    </script>
+}

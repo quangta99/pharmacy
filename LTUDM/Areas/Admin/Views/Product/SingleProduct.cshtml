@@ -1,0 +1,126 @@
+﻿
+@{
+    ViewBag.Title = "SingleProduct";
+    Layout = "~/Areas/Admin/Views/Shared/_Layou1.cshtml";
+    @model LTUDM.Models.ProductModel
+}
+
+
+<div id="content" class="span10">
+    <div class="row-fluid">
+        <div class="box-header">
+            <h2><i class="halflings-icon white plus"></i><span class="break"></span>Product</h2>
+            <div class="box-icon">
+                <a href="#" class="btn-minimize"><i class="halflings-icon white chevron-up"></i></a>
+            </div>
+        </div>
+        <div class="box-content">
+            <table class="table table-bordered table-striped">
+                <tr>
+                    <td><strong>Iamge</strong></td>
+                    <td>
+                        <div class="container" style="width:400px">
+                           
+                            <div id="myCarousel" class="carousel slide" data-ride="carousel" style="width:400px">
+                                <!-- Indicators -->
+                                <ol class="carousel-indicators">
+                                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                                </ol>
+
+                                <!-- Wrapper for slides -->
+                                <div class="carousel-inner">
+                                    <div class="item active">
+                                        <img src="@Model.img[0]"  alt="Image" class="img-fluid p-5" height="100" width="400" style="max-height:200px">
+                                    </div>
+
+                                    <div class="item">
+                                        <img src="@Model.img[1]"  alt="Image" class="img-fluid p-5" height="100" width="400" style="max-height:200px">
+                                    </div>
+
+                                    <div class="item">
+                                        <img src="@Model.img[2]"  alt="Image" class="img-fluid p-5" height="100" width="400" style="max-height:200px">
+                                    </div>
+                                </div>
+
+                                <!-- Left and right controls -->
+                                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                    <span class="sr-only"></span>
+                                </a>
+                                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                                    <span class="glyphicon glyphicon-chevron-right"></span>
+                                   
+                                </a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>ID Sản Phẩm</strong></td>
+                    <td>
+                        <p>@Model.ProductID</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Tên sản phẩm</strong></td>
+                    <td>
+                        <p>@Model.ProductName</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Giá sản phẩm</strong></td>
+                    <td>
+                        <p>@string.Format("{0:0,0 VNĐ}", Model.Price)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Discount</strong></td>
+                    <td>
+                        <p>@Model.discount %</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Số Lượng còn trong kho</strong></td>
+                    <td>
+                        <p>@Model.Quantity</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Nhà cung cấp</strong></td>
+                    <td>
+                        <p>@Model.Producer</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Thông tin sản phẩm</strong></td>
+                    <td>
+                        <p>@Model.Description</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Tình trạng sản phẩm: </strong></td>
+                    <td>
+                        @{
+                            if (Model.status == false)
+                            {
+                                <p class="btn btn-danger">Ngừng kinh doanh</p>
+                            }
+                            else
+                            {
+                                if (Model.Quantity > 0)
+                                { <p class="btn btn-success">Còn hàng</p>}
+                                else
+                                {
+                                    <p class="btn btn-warning">Hết hàng</p>
+                                }
+
+                            }
+                        }
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div><!--/span-->

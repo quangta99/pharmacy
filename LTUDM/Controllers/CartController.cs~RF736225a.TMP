@@ -1,0 +1,79 @@
+﻿using LTUDM.Models;
+using MongoDB.Driver;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+
+namespace LTUDM.Controllers
+{
+    public class CartController : Controller
+    {
+        // GET: Cart
+        private IMongoCollection<ProductModel> GetProducts;
+        private IMongoCollection<CategoryModel> GetCategory;
+
+        public CartController()
+        {
+            var client = new MongoClient("mongodb://localhost:27017");
+            IMongoDatabase db = client.GetDatabase("Phamarcy");
+            this.GetProducts = db.GetCollection<ProductModel>("Products");
+            this.GetCategory = db.GetCollection<CategoryModel>("Category");
+
+        }
+        public ActionResult Cart()
+        {
+            return View();
+        }
+        public ActionResult Buy(int id, string strUrl)
+        {
+
+            var model = GetProducts.Find
+            (FilterDefinition<ProductModel>.Empty).ToList();
+            ViewBag.SPr = null;
+            foreach (var I in model)
+            {
+                if (I.ProductID == id) ViewBag.SPr = I;
+
+            }
+            if (Session["cart"] == null)
+            {
+                List<ProductModel> cart = new List<ProductModel>();
+                cart.Add( ViewBag.SPr);
+                Session["cart"] = cart;
+            }
+            else
+            {
+                List<ProductModel> cart = (List<ProductModel>)Session["cart"];
+                int index = isExist(id);
+                if (index != -1)
+                {
+                    cart[index].Quantity++;
+                }
+                else
+                {
+                    cart.Add(ViewBag.SPr);
+                }
+                Session["cart"] = cart;
+            }
+            return Redirect(strUrl);
+        }
+        private int isExist(int id)
+        {
+            List<ProductModel> cart = (List<ProductModel>)Session["cart"];
+            for (int i = 0; i < cart.Count; i++)
+                if (cart[i].ProductID.Equals(id))
+                    return i;
+            return -1;
+        }
+        public ActionResult Payment()
+        {
+            return View();
+        }
+        public ActionResult Success()
+        {
+            return View();
+        }
+    }
+}

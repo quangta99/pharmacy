@@ -1,0 +1,83 @@
+﻿
+@{
+    ViewBag.Title = "Chi tiết đơn hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model LTUDM.Models.OrderModel
+
+<div class="container d-flex justify-content-center text-white" style="margin-top:100px">
+    <div class="col-lg-9">
+        <div class="row" style="color:black">
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 text-left">
+                <h6>Chi tiết đơn hàng - @Model.OrderID</h6>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 text-left">
+                <h6>Ngày đặt hàng: @Model.OrderDate</h6>
+            </div>
+        </div>
+        <div class="row" style="color:black">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                <h6>ĐỊA CHỈ NGƯỜI NHẬN</h6>
+                <div class="p-1 bill-infor">
+                    <p>@Model.Address</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                <h6>HÌNH THỨC GIAO HÀNG</h6>
+                <div class="p-1 bill-infor">
+                    <p>Ship</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                <h6>HÌNH THỨC THANH TOÁN</h6>
+                <div class="p-1 bill-infor">
+                    <p>Thanh toán khi nhận hàng</p>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-1 ml-0 mb-0 mr-0">
+            <table class="table table-hover text-sm">
+                <thead>
+                    <tr>
+                        <th scope="col">Sản phẩm</th>
+                        <th scope="col">Giá</th>
+                        <th scope="col">Số lượng</th>
+                        <th scope="col">Tạm tính</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in ViewBag.ProductOrder)
+                    {
+                        <tr>
+                            <th>
+                                <div class="eclipse-text">
+                                    <div>
+                                        <img class="img-bill" src="@item.img[0]" />
+                                    </div>
+                                    <div class="text-left">
+                                        <p>@item.ProductName</p>
+                                    </div>
+                                </div>
+                            </th>
+                            <th>@string.Format("{0:0,0 VNĐ}", item.Price)</th>
+                            <th>@item.Quantity</th>
+                            @{ decimal a = item.Price * item.Quantity; }
+                            <th>@string.Format("{0:0,0 VNĐ}", a)</th>
+                        </tr>
+                    }
+                </tbody>
+                <tfoot class="flex">
+                    <tr class="">
+                        <td class="text-left">Tình trạng</td>
+                        <td class="text-left">@Model.OrderStatus</td>
+                    </tr>
+                    <tr class="">
+                        <td class="text-left">Tổng cộng</td>
+                        <td class="text-left">@string.Format("{0:0,0 VNĐ}", Model.TotalPrice)</td>
+                    </tr>
+                </tfoot>
+            </table>
+            <a class="text-primary h6" href="@Url.Action("Infor","User")">Quay về lịch sử mua hàng</a>
+        </div>
+    </div>
+</div>

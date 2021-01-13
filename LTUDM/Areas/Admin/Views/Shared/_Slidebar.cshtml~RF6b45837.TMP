@@ -1,0 +1,24 @@
+﻿<div class="container-fluid-full">
+    <div class="row-fluid">
+
+        <!-- start: Main Menu -->
+        <div id="sidebar-left" style="hight:100%" class="span2">
+            <div class="nav-collapse sidebar-nav">
+                <ul class="nav nav-tabs nav-stacked main-menu">
+                    <li><a href="@Url.Action("Index", "Home")" "><i class="icon-bar-chart"></i><span class="hidden-tablet"> Menu</span></a></li>
+                    <li><a href="@Url.Action("Message", "Home")" "><i class="icon-envelope"></i><span class="hidden-tablet"> Tin nhắn</span></a></li>
+                    <li><a href="@Url.Action("UserPage", "Home")"><i class="icon-group"></i><span class="hidden-tablet"> Người Dùng</span></a></li>
+                    <li><a href="@Url.Action("Order", "Home")"><i class="icon-shopping-cart"></i><span class="hidden-tablet"> Đơn Đặt Hàng</span></a></li>
+                    <li><a href="@Url.Action("Categories", "Home")"><i class="icon-barcode"></i><span class="hidden-tablet"> Loại Sản Phẩm</span></a></li>
+                    <li><a href="@Url.Action("Product", "Home")"><i class="icon-barcode"></i><span class="hidden-tablet"> Tất cả Sản Phẩm</span></a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- end: Main Menu -->
+
+        <noscript>
+            <div class="alert alert-block span10">
+                <h4 class="alert-heading">Warning!</h4>
+                <p>You need to have <a href="http://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a> enabled to use this site.</p>
+            </div>
+        </noscript>

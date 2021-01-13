@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "SingleProduct";
+    @model LTUDM.Models.ProductModel
+}
+<div class="container" style="max-width:500px">
+    <div class="d-flex justify-content-center">
+        <div class="border text-center">
+            <img src="@Model.img" alt="Image" class="img-fluid p-5" height="100" width="400" style="max-height:200px">
+        </div>
+        <h2>ID Sản Phẩm: @Model.ProductID</h2>
+        <h2 class="text-warning">@Model.ProductName</h2>
+        <div>@Model.Description</div>
+        <p><strong class="text-primary h4">Giá: @string.Format("{0:0,0 VNĐ}", Model.Price)</strong></p>
+        <p><strong class="text-primary h4">Discount: @Model.discount %</strong></p>
+        <p><strong class="text-primary h4">Số Lượng còn trong kho: @Model.Quantity</strong></p>
+        <p><strong class="text-primary h4">Nhà cung cấp: @Model.Producer</strong></p>
+    </div>
+</div>
+

@@ -1,0 +1,107 @@
+﻿
+@{
+    ViewBag.Title = "Productdel";
+    Layout = "~/Areas/Admin/Views/Shared/_Layou1.cshtml";
+    @model List<LTUDM.Models.ProductModel>
+    int stt = 1;
+    ViewBag.Pr = null;
+}
+
+
+
+
+<div id="content" class="span10">
+    <div class="row-fluid">
+
+        <ul class="breadcrumb">
+            <li>
+                <i class="icon-home"></i>
+                <i>Home</i>
+                <i class="icon-angle-right"></i>
+            </li>
+            <li><p>Tất cả Sản Phẩm</p></li>
+        </ul>
+
+        <div class="row-fluid sortable">
+            <div class="box span12">
+                <div class="box-header" data-original-title>
+                    <h2><i class="halflings-icon white user"></i><span class="break"></span>Sản phẩm đã ngừng kinh doanh</h2>
+                    <div class="box-icon">
+                        <a href="#" class="btn-minimize"><i class="halflings-icon white chevron-up"></i></a>
+                        <a href="#" class="btn-close"><i class="halflings-icon white remove"></i></a>
+                    </div>
+                </div>
+                <div class="box-content">
+
+
+                    <table class="table table-striped table-bordered bootstrap-datatable datatable">
+
+
+                        <thead>
+                            <tr>
+                                <th>STT</th>
+                                <th>Mã Sản Phẩm</th>
+                                <th>Tên Sản Phẩm</th>
+                                <th>Số Lượng</th>
+                                <th>Giá</th>
+                                <th>Discount</th>
+                                <th>Loại Sản phẩm</th>
+                                <th>Hình ảnh</th>
+                                <th>Tình Trạng</th>
+                                <th>Nhà cung cấp</th>
+                                <th>Thao Tác</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @foreach (var i in Model)
+                            {
+                                if (i.status == false)
+                                {
+                                    <tr>
+                                        <td>@stt</td>
+                                        <td>@i.ProductID</td>
+                                        <td class="text-warning" style="font-weight:bold">@i.ProductName</td>
+                                        <td>@i.Quantity</td>
+                                        <td>@string.Format("{0:0,0 VNĐ}", i.Price)</td>
+                                        <td>@i.discount %</td>
+                                        <td>@i.Type.CategoryName</td>
+                                        <td class="d-flex justify-content-center">
+                                            <img src="@i.img[0]" alt="hinh" class="img-fluid" style="width:100px ; height:80px" />
+                                        </td>
+
+
+                                        <td><p class="btn-danger">Ngừng kinh doanh</p></td>
+
+
+
+
+
+                                        <td>@i.Producer</td>
+                                        <td class="center">
+                                            <a class="btn btn-success" href="@Url.Action("SingleProduct", "Product", new { ID = i.ProductID })">
+                                                <i class="halflings-icon white zoom-in"></i>
+                                            </a>
+                                            <a class="btn btn-info"  href="@Url.Action("UpdateProduct", "Product", new { ID = i.ProductID })">
+                                                <i class="halflings-icon white edit"></i>
+                                            </a>
+                                            <a class="btn btn-primary" href="@Url.Action("Return", "Product", new { id = i.ProductID })">
+                                                <i class="halflings-icon upload white"></i>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    { stt++; }
+                                }
+                            }
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+<!--My modal-->

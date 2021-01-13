@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewBag.Title = "AdminPage";
+    Layout = "~/Areas/Admin/Views/Shared/_Layou1.cshtml";
+}
+
+<div id="content" class="span10">
+
+
+
+    <div class="row-fluid">
+        <ul class="breadcrumb">
+            <li>
+
+                <i class="icon-home"></i>
+                <i>Home</i>
+
+            </li>
+
+        </ul>
+
+        <div class="row-fluid">
+            <div class="box blue span12">
+                <div class="box-header">
+                    <h2><i class="halflings-icon white white hand-top"></i><span class="break"></span>Quick Buttons</h2>
+                </div>
+                <div class="box-content">
+
+                    <a class="quick-button span2" href="@Url.Action("UserPage", "Home")">
+                        <i class="icon-group"></i>
+                        <p>Người dùng</p>
+
+                    </a>
+
+                    <a class="quick-button span2" href="@Url.Action("index", "Order")">
+                        <i class="icon-shopping-cart"></i>
+                        <p>Đơn đặt hàng</p>
+                    </a>
+                    <a class="quick-button span2" href="@Url.Action("Categories", "category")">
+                        <i class="icon-barcode"></i>
+                        <p>Loại sản phẩm</p>
+                    </a>
+                    <a class="quick-button span2" href="@Url.Action("Product", "Product")">
+                        <i class="icon-barcode"></i>
+                        <p>Sản Phẩm</p>
+                    </a>
+                    <a class="quick-button span2" href="@Url.Action("Productdel", "Product")">
+                        <i class="icon-barcode"></i>
+                        <p>Sản phầm ngừng KD</p>
+                    </a>
+                    <a class="quick-button span2" href="@Url.Action("Banner", "Home")">
+                        <i class="icon-picture"></i>
+                        <p>Ảnh màn hình chính</p>
+                    </a>
+
+                    <div class="clearfix"></div>
+                </div>
+            </div><!--/span-->
+
+        </div><!--/row-->
+    </div>
+</div>
+
+

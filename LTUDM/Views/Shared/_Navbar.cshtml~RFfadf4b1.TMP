@@ -1,0 +1,33 @@
+﻿<header>
+    <div class="container-fluid" style="background:#51BC5C" >
+        <div class="container">
+            <nav class="navbar navbar-expand-lg">
+                <a class="navbar-brand" href="@Url.Action("Index","Home")"><strong>PHARMACY</strong></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="fas fa-bars"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbar">
+                    <ul class="navbar-nav mr-auto ml-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" @Html.ActionLink("Trang chủ", "Index", "Home")</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" @Html.ActionLink("Sản phẩm", "Product", "Product")</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Về chúng tôi</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" @Html.ActionLink("Liên hệ", "Contact", "Home")</a>
+                        </li>
+                    </ul>
+                    <div class="row">
+                        <a class="nav-link"><i class="fas fa-search" style="color:#FFFFFF"></i></a>
+                        <a class="nav-link" href="@Url.Action("Cart","Cart")"><i class="fas fa-shopping-cart" style="color:#FFFFFF"></i></a>
+                        <a class="nav-link" href="@Url.Action("Login","Login")"><i class="fas fa-user" style="color:#FFFFFF"></i></a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+</header>
